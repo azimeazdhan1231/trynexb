@@ -1,0 +1,7 @@
+
+/admin/config.yml
+  Content-Type: text/yaml; charset=utf-8
+
+/admin/*
+  X-Frame-Options: DENY
+  X-Content-Type-Options: nosniff
